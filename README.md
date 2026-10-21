@@ -3,6 +3,11 @@
 > 按一下热键，指定的程序连任务栏一起消失；再按一下，原样回来。
 > 一个 19 MB 的 Windows 免安装小工具，纯 Python + Win32 API，无任何第三方运行库。
 
+![platform](https://img.shields.io/badge/platform-Windows-2b6cf6)
+![python](https://img.shields.io/badge/python-3.12-3776AB)
+![size](https://img.shields.io/badge/exe-19MB-4caf50)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 ![界面截图](assets/screenshot.png)
 
 ## 它解决什么问题
@@ -24,7 +29,7 @@
 
 ## 快速开始
 
-1. 到 [Releases](../../releases) 下载 `老板键.exe`，双击运行（首次运行图标在右下角托盘）
+1. 到 [Releases](../../releases/latest) 下载 **`BossKey.exe`**（就是「老板键」，文件名用英文是为了兼容性），双击运行 —— 首次运行图标在右下角托盘
 2. 点 **从运行窗口选择** → 勾选要藏的程序 → **添加选中**
    （也可以 **浏览 exe 文件**，或手动输入 `xxx.exe`）
 3. 选好组合键 → **保存并应用**
